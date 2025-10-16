@@ -17,5 +17,8 @@
     "express": "^5.1.0",
     "express-rate-limit": "^8.1.0",
     "express-slow-down": "^3.0.0"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }

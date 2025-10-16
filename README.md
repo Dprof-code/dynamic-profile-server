@@ -27,3 +27,24 @@ A successful response structure looks like this:
     "fact": "cat fact"
 }
 ```
+
+
+## Dependencies
+The dependencies used in this project are: `axios`, `dotenv`, `express`, `express-rate-limit`,`express-slow-down`
+
+### How to install the dependencies
+All can be installed at once by running `npm install` in your terminal
+
+You can also install individually:
+
+```
+npm install express
+npm install axios
+npm install dotenv
+npm install express-rate-limit
+npm install express-slow-down
+```
+
+
+## Deployment
+This server application is deployed on Heroku. The endpoint is accessible here: ``
