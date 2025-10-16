@@ -47,4 +47,4 @@ npm install express-slow-down
 
 
 ## Deployment
-This server application is deployed on Heroku. The endpoint is accessible here: (Live link)[https://dynamic-profile-server-4bb72905de93.herokuapp.com/me]
+This server application is deployed on Heroku. The endpoint is accessible here: [Live link](https://dynamic-profile-server-4bb72905de93.herokuapp.com/me)
